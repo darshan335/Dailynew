@@ -1,3 +1,3 @@
 # Java Daily Code
 
-This repository contains my daily Java practice code organized by day folde
+This repository contains my daily Java practice code organized by day folder
